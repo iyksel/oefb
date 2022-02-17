@@ -1,7 +1,13 @@
 <<<<<<< HEAD
 zhabehzb M3
+<<<<<<< HEAD
 M5
 =======
 zhabehzb
 extra A2
 >>>>>>> A2
+=======
+extra regel B4
+B6:wq
+
+>>>>>>> B4
